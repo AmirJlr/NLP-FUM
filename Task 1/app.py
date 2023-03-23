@@ -13,7 +13,7 @@ with col1:
     st.write(' ')
 
 with col2:
-    st.image('./anne.jpg')
+    st.image('./imgs/anne.jpg')
 
 with col3:
     st.write(' ')
@@ -32,5 +32,7 @@ def lookup(name):
 
 data = lookup(name)
 
-
+st.header('Related Quotes : ')
 st.table(data)
+
+
