@@ -1,6 +1,6 @@
 # NLP FUM
 
-A course for M.Sc. students, Data Science, <b>Ferdowsi University of Mashhad</b>.
+A course for M.Sc. students, Data Science, <b>Ferdowsi University of Mashhad</b> with Dr. <a href='https://github.com/mamintoosi'>Mahmood Amintoosi</a>.
 
 ### :hammer_and_wrench: Languages and Tools :
 
