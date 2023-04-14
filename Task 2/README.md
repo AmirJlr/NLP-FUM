@@ -1,5 +1,3 @@
-
-
 <h1 style="text-align: center;">Anne Shirley Quotes</h1>
 
 <table style="margin-left: auto; margin-right: auto;">
@@ -10,7 +8,6 @@
     <th>Final Image</th>
 </tr>
 </thead>
-
 
 <tbody>
     
